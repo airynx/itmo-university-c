@@ -1,4 +1,6 @@
-# C implementations of operating system course tasks (ITMO, 2nd year)
+# Description
+
+**C implementations of operating system course tasks (ITMO, 2nd year)** 
 
 ## Statements
 
