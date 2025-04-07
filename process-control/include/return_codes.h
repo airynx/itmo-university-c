@@ -1,0 +1,75 @@
+#ifndef PROCESS_CONTROL_RETURN_CODES_H
+#define PROCESS_CONTROL_RETURN_CODES_H
+#endif	  // PROCESS_CONTROL_RETURN_CODES_H
+
+// GENERAL
+#ifndef SUCCESS
+#define SUCCESS 0
+#endif
+
+#ifndef PROGRAM_ARGS_ISSUE
+#define PROGRAM_ARGS_ISSUE 1
+#endif
+
+// FILES
+#ifndef FILE_CREATION_ISSUE
+#define FILE_CREATION_ISSUE 3
+#endif
+
+#ifndef FILE_OPENING_ISSUE
+#define FILE_OPENING_ISSUE 4
+#endif
+
+#ifndef FILE_WRITING_ISSUE
+#define FILE_WRITING_ISSUE 5
+#endif
+
+#ifndef FILE_READING_ISSUE
+#define FILE_READING_ISSUE 6
+#endif
+
+#ifndef CURSOR_ISSUE
+#define CURSOR_ISSUE 7
+#endif
+
+#ifndef FILE_CONTENT_ISSUE
+#define FILE_CONTENT_ISSUE 8
+#endif
+
+// DIRS
+#ifndef DIR_CREATION_ISSUE
+#define DIR_CREATION_ISSUE 9
+#endif
+
+#ifndef DIR_OPENING_ISSUE
+#define DIR_OPENING_ISSUE 10
+#endif
+
+// OTHER
+#ifndef TIME_ISSUE
+#define TIME_ISSUE 15
+#endif
+
+#ifndef SIGNAL_ISSUE
+#define SIGNAL_ISSUE 17
+#endif
+
+#ifndef FORK_ISSUE
+#define FORK_ISSUE 18
+#endif
+
+#ifndef SYSTEM_COMMAND_ISSUE
+#define SYSTEM_COMMAND_ISSUE 20
+#endif
+
+#ifndef SUBPROCESS_ISSUE
+#define SUBPROCESS_ISSUE 25
+#endif
+
+#ifndef PIPE_ISSUE
+#define PIPE_ISSUE 27
+#endif
+
+#ifndef NON_SPECIFIED_ISSUE
+#define NON_SPECIFIED_ISSUE 30
+#endif
