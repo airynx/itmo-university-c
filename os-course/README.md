@@ -4,8 +4,6 @@
 
 ## Statements
 
-1. **Statements 1:**  
-   [task2.pdf](process-monitor/tasks.pdf)
+1. - [task2.pdf](process-monitor/tasks.pdf)
 
-2. **Statements 2:**  
-   [task3.pdf](process-control/tasks.pdf)
+2. - [task3.pdf](process-control/tasks.pdf)
