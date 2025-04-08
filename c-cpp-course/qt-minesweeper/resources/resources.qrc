@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tohofont.ttf</file>
+        <file>mainBackground.png</file>
+        <file>funnyFlagHoldingCharacter.png</file>
+        <file>bomb.png</file>
+        <file>bangedBomb.png</file>
+        <file>framedStone.png</file>
+        <file>transparent-framedStone.png</file>
+        <file>redStone.png</file>
+        <file>helpingStone.png</file>
+        <file>helpingStoneTransparent.png</file>
+        <file>leftLabel.png</file>
+    </qresource>
+</RCC>
