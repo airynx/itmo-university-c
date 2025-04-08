@@ -1,4 +1,4 @@
-# C language programs
+# C/C++ language programs
 
 **This is an archive of my ITMO university C programs. One can find here different labs and practice exercises completed during my courses.**
 ## Contents:
