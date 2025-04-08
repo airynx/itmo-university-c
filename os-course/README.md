@@ -4,6 +4,6 @@
 
 ## Statements
 
-1. - [task2.pdf](process-monitor/tasks.pdf)
+1. - [process-monitor-statements](process-monitor/tasks.pdf)
 
-2. - [task3.pdf](process-control/tasks.pdf)
+2. - [process-control-statements](process-control/tasks.pdf)
